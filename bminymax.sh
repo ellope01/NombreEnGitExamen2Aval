@@ -27,3 +27,5 @@ elif [ $n3 -gt $n2 ]
    echo " el mayor es:"
    echo "$n3"
   fi
+
+
